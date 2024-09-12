@@ -17,3 +17,5 @@ Dataset: The dataset used is taken from Kaggle and includes product defect infor
 streamlit run app.py
 
 This project aims to help businesses understand and monitor product defects over time, enabling more effective product maintenance and quality control strategies.
+
+http://localhost:8501/
